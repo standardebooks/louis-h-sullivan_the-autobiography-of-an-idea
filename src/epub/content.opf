@@ -28,14 +28,11 @@
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">The Autobiography of an Idea</dc:title>
 		<meta property="file-as" refines="#title">Autobiography of an Idea, The</meta>
-		<dc:subject id="subject-1">SUBJECT_1</dc:subject>
-		<dc:subject id="subject-2">SUBJECT_2</dc:subject>
+		<dc:subject id="subject-1">Architects--United States--Biography (LCSH)</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
-		<meta property="term" refines="#subject-1">LCSH_ID_1</meta>
-		<meta property="authority" refines="#subject-2">LCSH</meta>
-		<meta property="term" refines="#subject-2">LCSH_ID_2</meta>
+		<meta property="term" refines="#subject-1">sh2007100732</meta>
 		<meta property="se:subject">Autobiography</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">Famed architect Louis H. Sullivan recounts his life and career.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			LONG_DESCRIPTION
 		</meta>
@@ -43,7 +40,6 @@
 		<dc:source>https://archive.org/details/in.ernet.dli.2015.156478</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
-		<meta property="se:url.encyclopedia.wikipedia">EBOOK_WIKI_URL</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/louis-h-sullivan_the-autobiography-of-an-idea</meta>
 		<dc:creator id="author">Louis H. Sullivan</dc:creator>
 		<meta property="file-as" refines="#author">Sullivan, Louis H.</meta>
