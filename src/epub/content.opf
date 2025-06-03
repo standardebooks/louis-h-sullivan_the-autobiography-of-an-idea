@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/louis-h-sullivan/the-autobiography-of-an-idea</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2025-06-03T20:32:13Z</dc:date>
+		<meta property="dcterms:modified">2025-06-03T20:32:13Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -34,12 +34,15 @@
 		<meta property="se:subject">Autobiography</meta>
 		<dc:description id="description">Famed architect Louis H. Sullivan recounts his life and career.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/louis-h-sullivan"&gt;Louis Sullivan&lt;/a&gt; was one of the most important architects working at the turn of the 20th century. His most important work was done in Chicago, as part of the firm of Adler and Sullivan, but he also designed well-regarded buildings in cities like Philadelphia, St. Louis, and Buffalo. He has been called both the “father of the skyscraper” and the “father of modernism,” as well as being the progenitor of the famous maxim “form follows function.”&lt;/p&gt;
+			&lt;p&gt;Building in the seething crucible of progress that was post-fire Chicago, Sullivan put that famous maxim—the “idea” of his autobiography—to use by creating forms and grammars for the new kinds of high-rise buildings made possible by the newly-invented technique of steel-frame construction. But contrary to the impression of sparse minimalism that the mid-century Bauhaus movement brought to “form follows function,” Sullivan’s building were often intricately decorated, with organic Beaux-Arts and Art Nouveau ornaments gracing their richly-designed façades.&lt;/p&gt;
+			&lt;p&gt;This book, his autobiography, was commissioned by the journal of the American Institute of Architects. Sullivan accepted the commission in part due to the financial difficulties he had encountered later in life; it was first published serially, then as a book, in 1922. Sullivan died just two years later.&lt;/p&gt;
+			&lt;p&gt;The narrative is in the third person, and for its first three-quarters covers Sullivan’s youth, education, and early apprenticeships in a prose style so elegant that it’s hard to believe Sullivan was an architect and not a writer by trade. Nothing of his adult personal life is mentioned, and, surprisingly, almost no space is given to any of the specific buildings he designed. After he briefly describes starting his legendary partnership with Dankmar Adler, he concludes the book with an abbreviated description of the planning of Chicago’s famous 1893 World’s Columbian Exposition—in which a campus of nearly 700 acres of monumental white Beaux-Arts buildings was erected in just a few years, granting Chicago the moniker of the “White City”—before entering a philosophical exploration of his theory of “form follows function.”&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://archive.org/details/in.ernet.dli.2015.156478</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">92357</meta>
+		<meta property="se:reading-ease.flesch">67.59</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/louis-h-sullivan_the-autobiography-of-an-idea</meta>
 		<dc:creator id="author">Louis H. Sullivan</dc:creator>
 		<meta property="file-as" refines="#author">Sullivan, Louis H.</meta>
