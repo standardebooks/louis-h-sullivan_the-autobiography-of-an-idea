@@ -48,7 +48,7 @@
 		<meta property="file-as" refines="#author">Sullivan, Louis H.</meta>
 		<meta property="se:name.person.full-name" refines="#author">Louis Henry Sullivan</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Louis_H._Sullivan</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/n50010438</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n50010438</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Frank A. Werner</dc:contributor>
 		<meta property="file-as" refines="#artist">Werner, Frank A.</meta>
